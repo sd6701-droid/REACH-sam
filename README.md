@@ -7,6 +7,7 @@ REACH is a multi-modal pipeline for automated behavioral analysis of parent-reco
 - `action_recognition/` — pose estimation and skeleton-based action recognition benchmarks on InfActPrimitive (infant) and NTU RGB+D (adult), plus the InfoGCN baseline we explored.
 - `cope/` — dataset audit and inventory tooling for the COPE longitudinal video collection (4,163 videos across 6 / 12 / 42 month timepoints).
 - `mediapipe/` — holistic landmark detection experiments (face + body + hands).
+- `Face_AU/` — PyAFAR-based facial action unit detection (infant + adult).
 
 Each subdirectory has its own README with setup and reproduction notes.
 
